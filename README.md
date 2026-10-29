@@ -64,23 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SmartAdvocate is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+SmartAdvocate provides award‑winning legal case management software serving over 20,000 legal professionals nationwide, including solo practitioners and large litigation firms. The cloud‑based and on‑premise platform offers automated client intake, workflow automation, document management with merge codes, batch scanning, integrated calendaring, deadline tracking, customizable dashboards, reporting, billing, invoicing, a client portal, mobile apps, and AI‑powered SmartIntelligence tools for summarization, translation, and transcription.
 
-**Areas:** Company
+**Areas:** LegalTech · CaseManagement · Software · Litigation · Cloud
 
 ## SmartAdvocate on APIs.io
 
 Everything profiled for SmartAdvocate is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/smartadvocate/](https://apis.io/providers/smartadvocate/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SmartAdvocate API](https://apis.io/apis/smartadvocate/smartadvocate-api/) — SmartAdvocate API (no public machine‑readable specification found).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Smartadvocate Authentication](https://apis.io/security/smartadvocate/smartadvocate-authentication/)
+- [Smartadvocate Domain Security](https://apis.io/security/smartadvocate/smartadvocate-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Smartadvocate Scopes](https://apis.io/scopes/smartadvocate/smartadvocate-scopes/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Smartadvocate Rate Limits](https://apis.io/rate-limits/smartadvocate/smartadvocate-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://smartadvocate.com/)
+- [Documentation](https://dev.smartadvocate.com/)
+- [Support](https://www.smartadvocate.com/support)
+- [Terms of service](https://www.smartadvocate.com/terms-of-service)
+- [Privacy policy](https://www.smartadvocate.com/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/smartadvocate/](https://apis.io/providers/smartadvocate/).
+**Kin Score 14.0** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 12.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/smartadvocate/](https://apis.io/providers/smartadvocate/).
 
 ## How this profile is made
 
